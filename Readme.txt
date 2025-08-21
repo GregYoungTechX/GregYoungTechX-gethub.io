@@ -1,17 +1,37 @@
-# Greg Young — GregYoungTechX
+![GregYoungTechX Banner](./banner.png)
 
-Executive Summary / About
-**Tech Strategist | CEO/CTO Advisor | Semi, Optics, AI & Deep-Tech**
+# Greg Young — GregYoungTechX  
 
-I am a seasoned technology executive with extensive experience semis, optics, networking, leading AI, and strategic initiatives. Guiding private company boards and CTOs in scaling innovation and navigating high-tech transitions defines my focus.
+**Technology Strategist | CEO/CTO Advisor | Global Innovation & Deep-Tech Leadership**  
 
-Core Expertise
-- AI Strategy & Deep-Tech Innovation
-- Semiconductor & Systems-Level Leadership
-- Private Board & CTO Advisory
-- Scaling High-Growth Private Tech Companies
-- Global Technology Strategy & Governance
+---
 
-**Connect with me:**
-- LinkedIn: [Greg Young](https://www.linkedin.com/in/greg-young-a071266)
-- Email: gregyoungpersonal@gmail.com
+## 👋 About Me  
+I am a seasoned technology executive with extensive experience spanning semiconductors, optics, AI, networking, and advanced systems. My focus is on guiding private company boards and CTOs through scaling innovation, driving strategic growth, and navigating complex high-tech transitions.  
+
+---
+
+## 🔑 Core Expertise  
+- AI Strategy & Deep-Tech Innovation  
+- Semiconductor & Systems-Level Leadership  
+- Private Board & CTO Advisory  
+- Scaling High-Growth Technology Companies  
+- Global Technology Strategy & Governance  
+
+---
+
+## 📌 Featured Initiatives  
+- **TechX Innovation Playbook** → Frameworks for evaluating emerging tech investments & market strategies  
+- **AI for the Boardroom** → Insights for executives navigating AI adoption at scale  
+- **Executive Dashboards** → Data-driven decision tools for leadership & governance  
+
+---
+
+## 🌐 Connect with Me  
+- [LinkedIn: Greg Young](https://www.linkedin.com/in/greg-young-a071266)  
+- 📧 gregyoungpersonal@gmail.com  
+
+---
+
+## 📊 Quick Stats *(optional)*  
+![GitHub stats](https://github-readme-stats.vercel.app/api?usernam
